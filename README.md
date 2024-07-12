@@ -48,7 +48,7 @@
   
 1. Fork The Repo
     <br>
-    <a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/Hadeon/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Pair with WhatsApp 
    <p align="left">
